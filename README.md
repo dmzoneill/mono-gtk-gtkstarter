@@ -1,5 +1,9 @@
 # GtkStarter
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-gtkstarter logo" width="128" />
+</p>
+
 A minimal C++ starter project set up to build against gtkmm.
 
 ## What it does
